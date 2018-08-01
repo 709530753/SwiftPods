@@ -6,5 +6,6 @@ target 'SwiftPods' do
   use_frameworks!
   pod 'Alamofire', '~> 4.6.0'
   # Pods for SwiftPods
+  pod 'FLEX'
 
 end

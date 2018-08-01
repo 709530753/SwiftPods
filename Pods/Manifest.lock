@@ -1,12 +1,20 @@
 PODS:
   - Alamofire (4.6.0)
+  - FLEX (2.4.0)
 
 DEPENDENCIES:
   - Alamofire (~> 4.6.0)
+  - FLEX
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - FLEX
 
 SPEC CHECKSUMS:
   Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  FLEX: bd1a39e55b56bb413b6f1b34b3c10a0dc44ef079
 
-PODFILE CHECKSUM: 633a4816d04e878a017a5ad0898da4145384a3b6
+PODFILE CHECKSUM: 37e7d3fbdf8590e473487742d4b3c55e7502359b
 
-COCOAPODS: 1.2.0
+COCOAPODS: 1.5.3
